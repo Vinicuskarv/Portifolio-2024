@@ -1911,6 +1911,7 @@ header .logo a{
 	position: relative;
 }
 .popup-modal img {
+	height: 100%;
 	vertical-align: bottom;
 }
 .popup-modal .description-box {
