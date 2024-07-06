@@ -1102,6 +1102,13 @@ header .top-bar {
 	left: 90px;
 	top: 0;
 }
+header .top-bar2 {
+	position: absolute;
+    right: 20px;
+    background: black;
+    min-height: 66px;
+    width: 56px;
+}
 header .logo {
 	float: left;
 	margin-left: 20px;
